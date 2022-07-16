@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1d0d283-5780-4ed3-b9f7-5229d6c811dd" name="Changes" comment="We have learned about testing our views">
-      <change afterPath="$PROJECT_DIR$/polls/static/polls/images/background.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/static/polls/style.css" afterDir="false" />
+    <list default="true" id="f1d0d283-5780-4ed3-b9f7-5229d6c811dd" name="Changes" comment="Working with static files">
+      <change afterPath="$PROJECT_DIR$/templates/admin/base_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <workItem from="1657646012204" duration="2068000" />
       <workItem from="1657664842767" duration="62000" />
       <workItem from="1657745337273" duration="2567000" />
-      <workItem from="1657997993227" duration="2182000" />
+      <workItem from="1657997993227" duration="5407000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit - Starting the Django App with the basic request and response flow.">
       <created>1657323783952</created>
@@ -110,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657999195277</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Working with static files">
+      <created>1658000327452</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658000327452</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +141,7 @@
     <MESSAGE value=" Writing our views for our app and we have specified our app name for the url conf" />
     <MESSAGE value="Now we got generic views" />
     <MESSAGE value="We have learned about testing our views" />
-    <option name="LAST_COMMIT_MESSAGE" value="We have learned about testing our views" />
+    <MESSAGE value="Working with static files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with static files" />
   </component>
 </project>
