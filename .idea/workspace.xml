@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1d0d283-5780-4ed3-b9f7-5229d6c811dd" name="Changes" comment=" Writing our views for our app and we have specified our app name for the url conf">
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/results.html" afterDir="false" />
+    <list default="true" id="f1d0d283-5780-4ed3-b9f7-5229d6c811dd" name="Changes" comment="Now we got generic views">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/templates/polls/details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +69,11 @@
       <updated>1657321839628</updated>
       <workItem from="1657321839831" duration="220000" />
       <workItem from="1657322302679" duration="2607000" />
-      <workItem from="1657577148362" duration="10394000" />
+      <workItem from="1657577148362" duration="10518000" />
+      <workItem from="1657646012204" duration="2068000" />
+      <workItem from="1657664842767" duration="62000" />
+      <workItem from="1657745337273" duration="2567000" />
+      <workItem from="1657997993227" duration="923000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit - Starting the Django App with the basic request and response flow.">
       <created>1657323783952</created>
@@ -95,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657588734369</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Now we got generic views">
+      <created>1657643758069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657643758069</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +124,7 @@
     <MESSAGE value="Initial Commit - Starting the Django App with the basic request and response flow." />
     <MESSAGE value="We've created and  migrated our models to our DB and creating the superuser" />
     <MESSAGE value=" Writing our views for our app and we have specified our app name for the url conf" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Writing our views for our app and we have specified our app name for the url conf" />
+    <MESSAGE value="Now we got generic views" />
+    <option name="LAST_COMMIT_MESSAGE" value="Now we got generic views" />
   </component>
 </project>
